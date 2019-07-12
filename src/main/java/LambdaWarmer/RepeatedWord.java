@@ -1,4 +1,4 @@
-package LamdaWarmer;
+package LambdaWarmer;
 
 import java.util.Arrays;
 
