@@ -1,6 +1,4 @@
-package RepeatedWord;
-
-import hashtable.Hashtable;
+package LambdaWarmer;
 
 import java.util.Arrays;
 

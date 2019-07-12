@@ -1,4 +1,4 @@
-package hashtable;
+package LambdaWarmer;
 
 
 public class Main {
