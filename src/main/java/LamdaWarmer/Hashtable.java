@@ -1,4 +1,4 @@
-package hashtable;
+package LamdaWarmer;
 
 public class Hashtable {
 
